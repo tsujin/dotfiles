@@ -15,7 +15,7 @@ set number
 set sw=4 et
 set tabstop=4
 set ts=8
-set tw=79 cc=60
+set tw=79 cc=79
 set nosmartindent
 set nojoinspaces
 set ruler
