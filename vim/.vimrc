@@ -25,6 +25,15 @@ set sidescroll=1
 set sidescrolloff=2
 set display+=lastline
 
+" Number gutter
+set norelativenumber
+set numberwidth=3
+
+" Better searching
+set hlsearch
+set incsearch
+set smartcase ignorecase
+
 " Better toggle for normal mode
 inoremap jk <Esc>
 
