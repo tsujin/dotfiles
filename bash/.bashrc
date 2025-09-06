@@ -112,3 +112,5 @@ shopt -s expand_aliases
 # Enable history appending instead of overwriting.  #139609
 shopt -s histappend
 
+# Local vars
+PROJECTS="$HOME/Projects"
