@@ -75,6 +75,7 @@ call plug#begin()
         Plug 'nvie/vim-flake8'
         Plug 'preservim/nerdtree'
         Plug 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim'}
+        Plug 'python-mode/python-mode', { 'for': 'python', 'branch': 'developed' }
 call plug#end()
 
 " NERDTree Configuration
